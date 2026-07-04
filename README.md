@@ -1,7 +1,7 @@
 ## Hi there, I'm Pratiksha 👋
 
 # 💫 About Me:
-🎓 A final-year Computer Science student passionate about creating interactive and efficient web applications.<br>💻 I have hands-on experience in Frontend Development using HTML, CSS, JavaScript, jQuery, jQuery UI, and Bootstrap, along with a strong foundation in Core Java.<br>🚀 I’m currently expanding my skills in Backend Development, Advanced Java, and DevOps tools to become a Full Stack Developer.<br><br>📚 Currently Learning<br>☕ Advanced Java
+🎓 Computer Science student passionate about creating interactive and efficient web applications.<br>💻 I have hands-on experience in Frontend Development using HTML, CSS, JavaScript, jQuery, jQuery UI, and Bootstrap, along with a strong foundation in Core Java.<br>🚀 I’m currently expanding my skills in Backend Development, Advanced Java, and DevOps tools to become a Full Stack Developer.<br><br>📚 Currently Learning<br>☕ Advanced Java
 
 
 ## 🌐 Socials:
